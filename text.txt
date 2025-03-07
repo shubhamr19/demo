@@ -1,0 +1,10 @@
+
+this  is being apended
+ another license
+this  is being apended
+ another license
+this is a text is being appended to text.txt
+another line
+
+this  is being apended
+ another license
